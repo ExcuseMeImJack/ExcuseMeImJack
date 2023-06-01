@@ -17,8 +17,8 @@
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
  ☕ &emsp; Enjoy programming and helping others <br/><br/>
- ❤️ &emsp; Love to write code and learn new concepts<br/><br/>
- 📧 &emsp; Reach me anytime: jroybal.dev@gmail.com<br/><br/>
+ 💜 &emsp; Love to write code and learn new concepts<br/><br/>
+ 📧 &emsp; Reach me: jroybal.dev@gmail.com<br/><br/>
 
 </p>
 
