@@ -5,7 +5,7 @@
  <a href="mailto:jroybal.dev@gmail.com?subject=GitHub%20Message" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="jack"/>
  </a>
- <a href="" target="blank">
+ <a href="https://excusemeimjack.github.io./" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="jack" />
  </a>
 </h1>
