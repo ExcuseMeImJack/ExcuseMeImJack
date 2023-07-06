@@ -45,7 +45,7 @@
 [![Watchboxd](https://github-readme-stats.vercel.app/api/pin/?username=ExcuseMeImJack&repo=Watchboxd&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ExcuseMeImJack/watchboxd)
 [![Asante](https://github-readme-stats.vercel.app/api/pin/?username=ExcuseMeImJack&repo=asante&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ExcuseMeImJack/asante)
 [![Relive](https://github-readme-stats.vercel.app/api/pin/?username=ExcuseMeImJack&repo=AirBnB-Project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ExcuseMeImJack/Relive)
-[![Relive](https://github-readme-stats.vercel.app/api/pin/?username=ExcuseMeImJack&repo=MinecraftUtilsPLugin&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ExcuseMeImJack/MinecraftUtilsPlugin)
+[![MCUtilsPlugin](https://github-readme-stats.vercel.app/api/pin/?username=ExcuseMeImJack&repo=MinecraftUtilsPLugin&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ExcuseMeImJack/MinecraftUtilsPlugin)
 
 <p align="left">
   <a href="https://github.com/ExcuseMeImJack?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
