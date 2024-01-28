@@ -9,7 +9,6 @@
   <img style="border-radius:5px;" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="jack" />
  </a>
 </h1>
-
 <!-- About Section -->
  # Hello, my name is Jack Roybal!
  
