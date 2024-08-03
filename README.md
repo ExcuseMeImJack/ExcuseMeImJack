@@ -23,8 +23,8 @@
 
   <h3 align="left">Connect with me:</h3>
   <p align="left">
-    <a href="mailto:jroybal.dev@gmail.com?subject=GitHub%20Message" target="_blank"><i align="center" class="devicon-google-original" alt="jroybal.dev@gmail.com" height="40" width="60"></i></a>
-    <a href="https://www.linkedin.com/in/jroybaldev/" target="_blank"><i align="center" class="devicon-linkedin-plain colored" alt="jroybaldev" height="40" width="60"></i></a>
+    <a href="mailto:jroybal.dev@gmail.com?subject=GitHub%20Message" target="_blank"><img height="30" src="https://skillicons.dev/icons?i=gmail"/></a>
+    <a href="https://www.linkedin.com/in/jroybaldev/" target="_blank"><img height="30" src="https://skillicons.dev/icons?i=linkedin"/></a>
   </p>
 
   <p align="left"><img src="https://komarev.com/ghpvc/?username=ExcuseMeImJack&label=Profile%20views&color=0e75b6&style=flat" alt="ExcuseMeImJack" /></p>
