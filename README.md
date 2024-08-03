@@ -54,19 +54,23 @@
   <table>
     <tr>
       <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Frontend:</td>
-      <td><img height="40" src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,html,css,figma"/></td>
+      <td><img height="40" src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,html,css,figma,bootstrap,tailwind"/></td>
     </tr>
     <tr>
       <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-      <td><img height="40" src="https://skillicons.dev/icons?i=python,flask,nodejs,express,flask,sequelize"/></td>
+      <td><img height="40" src="https://skillicons.dev/icons?i=python,flask,nodejs,express,flask,sequelize,postman"/></td>
     </tr>
     <tr>
       <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
-      <td><img height="40" src="https://skillicons.dev/icons?i=postgresql,mongodb"/></td>
+      <td><img height="40" src="https://skillicons.dev/icons?i=postgresql,mongodb,firebase,mysql,prisma,sqlite"/></td>
     </tr>
     <tr>
       <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
       <td><img height="40" src="https://skillicons.dev/icons?i=docker,aws"/></td>
+    </tr>
+    <tr>
+      <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other:</td>
+      <td><img height="40" src="https://skillicons.dev/icons?i=lua,ps,pr,unity,unreal,vercel"/></td>
     </tr>
   </table>
 
