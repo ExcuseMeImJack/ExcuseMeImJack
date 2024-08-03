@@ -1,73 +1,80 @@
-<h1 align="center">
- <a href="https://www.linkedin.com/in/jroybaldev/" target="_blank">
-  <img style="border-radius:5px;" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="jack"/>
- </a>
- <a href="mailto:jroybal.dev@gmail.com?subject=GitHub%20Message" target="_blank">
-  <img style="border-radius:5px;" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="jack"/>
- </a>
- <a href="https://jroybaldev.vercel.app/" target="_blank">
-  <img style="border-radius:5px;" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="jack" />
- </a>
-</h1>
-<!-- About Section -->
- # Hello, my name is Jack Roybal!
- 
-<p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-  
- ☕ &emsp; Enjoy programming and helping others <br/><br/>
- 💜 &emsp; I Love to write code and learn new concepts<br/><br/>
- 📧 &emsp; Reach me: jroybal.dev@gmail.com<br/><br/>
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
-</p>
+<main style="background-color:#493657; color:#E1DEE3; padding:1rem; border-radius:2rem">
 
-## Used To Code!
+  <h1 align="center" style="color:#DEC3BE; font-weight:bold;">Hello World, I'm Jack Roybal</h1>
 
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
-![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Sequelize](https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue)
+  <div style="border-top:2px solid #E1DEE3;"></div>
 
-<!-- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) -->
-## Public Projects -
-[![Watchboxd](https://github-readme-stats.vercel.app/api/pin/?username=ExcuseMeImJack&repo=Watchboxd&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ExcuseMeImJack/watchboxd)
-[![Asante](https://github-readme-stats.vercel.app/api/pin/?username=ExcuseMeImJack&repo=asante&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ExcuseMeImJack/asante)
-[![Relive](https://github-readme-stats.vercel.app/api/pin/?username=ExcuseMeImJack&repo=AirBnB-Project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ExcuseMeImJack/Relive)
-[![MCUtilsPlugin](https://github-readme-stats.vercel.app/api/pin/?username=ExcuseMeImJack&repo=MinecraftUtilsPLugin&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ExcuseMeImJack/MinecraftUtilsPlugin)
+  <p>With a strong foundation in both frontend and backend development, I’m on a mission to create seamless user experiences that bridge the digital and real worlds! Skilled in JavaScript, React, TypeScript, and Next.js, I bring my magic to both innovative startups and large enterprise projects. I’m passionate about writing clean, maintainable code and designing with users in mind. I thrive in environments that embrace innovation and continuous professional growth. Let’s innovate together!</p>
 
-<p align="left">
-  <a href="https://github.com/ExcuseMeImJack?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
+  <ul>
+    <li>🔭 I’m currently volunteering for the African Marine Mammals Conservation Organization's SIREN project. Check it out <a style="color:#DEC3BE; font-weight:bold;" href="https://www.sirenammco.org/" target="_blank">HERE</a>!</li>
+    <li>🌱 I’m currently learning Next.js, Tailwind, UI/UX Design, and C++.</li>
+    <li>💬 Ask me about <strong>HTML, CSS, Bootstrap, JavaScript, TypeScript, React, Lua, Java, Scrum, AWS, Python, Flask, OOP, CI/CD, TDD, DDD, or Docker</strong></li>
+    <li>⚡ Fun fact: I’ve been passionate about programming and computer hardware since I was 14! <em>(And yes, I’ve been debugging code for just as long!)</em></li>
+  </ul>
 
-<br/>
-<hr/>
-<br/>
-<p align="center">
-  <a href="https://github.com/ExcuseMeImJack">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ExcuseMeImJack&theme=radical&border=7F3FBF&background=0D1117" alt="ExcusemeImJack's GitHub Streak"/>
-  </a>
-</p>
+  <div style="border-top:2px solid #E1DEE3;"></div>
 
-<p align="center">
-  <a href="https://github.com/ExcuseMeImJack">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ExcuseMeImJack&theme=radical" alt="ExcuseMeImJack's GitHub Contribution"/>
-  </a>
-</p>
+  <h3 align="left">Check out my <a style="color:#DEC3BE; font-weight:bold;" href="https://jroybaldev.vercel.app/" target="_blank">PORTFOLIO</a> and my <a style="color:#DEC3BE; font-weight:bold;" href="https://resume.co/@dLMVftoEKpbZi0LtL0CA?password=DekHyBukLiPu" target="_blank">RESUME</a>!</h3>
 
-<a> 
-    <a href="https://github.com/ExcuseMeImJack"><img alt="ExcuseMeImJack's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=ExcuseMeImJack&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/ExcuseMeImJack"><img alt="ExcuseMeImJack's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ExcuseMeImJack&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
+  <div style="border-top:2px solid #E1DEE3;"></div>
 
+  <h3 align="left">Connect with me:</h3>
+  <p align="left">
+    <a href="mailto:jroybal.dev@gmail.com?subject=GitHub%20Message" target="_blank"><i align="center" class="devicon-google-original" alt="jroybal.dev@gmail.com" height="40" width="60"></i></a>
+    <a href="https://www.linkedin.com/in/jroybaldev/" target="_blank"><i align="center" class="devicon-linkedin-plain colored" alt="jroybaldev" height="40" width="60"></i></a>
+  </p>
+
+  <p align="left"><img src="https://komarev.com/ghpvc/?username=ExcuseMeImJack&label=Profile%20views&color=0e75b6&style=flat" alt="ExcuseMeImJack" /></p>
+
+  <div style="border-top:2px solid #E1DEE3;"></div>
+
+  <h3 align="left">Activity:</h3>
+
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ExcuseMeImJack&bg_color=493657&color=E1DEE3&line=E1DEE3&point=DEC3BE&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+  <div align="center">
+    <a href="https://github.com/ExcuseMeImJack">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ExcuseMeImJack&show_icons=true&locale=en&layout=compact&theme=material-palenight" alt="ExcuseMeImJack"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ExcuseMeImJack&show_icons=true&locale=en&layout=compact&theme=material-palenight" alt="ExcuseMeImJack"/>
+    </a>
+  </div>
+
+  <p align="center">
+    <a href="https://github.com/ExcuseMeImJack">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ExcuseMeImJack&&theme=material-palenight" alt="ExcuseMeImJack" />
+    </a>
+  </p>
+
+  <div style="border-top:2px solid #E1DEE3;"></div>
+
+  <h3 align="left">Technical Skills</h3>
+  <table>
+    <tr>
+      <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Frontend:</td>
+      <td><img height="40" src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,html,css,figma"/></td>
+    </tr>
+    <tr>
+      <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
+      <td><img height="40" src="https://skillicons.dev/icons?i=python,flask,nodejs,express,flask,sequelize"/></td>
+    </tr>
+    <tr>
+      <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
+      <td><img height="40" src="https://skillicons.dev/icons?i=postgresql,mongodb"/></td>
+    </tr>
+    <tr>
+      <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
+      <td><img height="40" src="https://skillicons.dev/icons?i=docker,aws"/></td>
+    </tr>
+  </table>
+
+  <h3 align="left">Links</h3>
+  <p align="left" style="display:flex; gap:1rem; padding-bottom:1rem;">
+    <a style="color:#DEC3BE; font-weight:bold;" href="https://jroybaldev.vercel.app/" target="_blank">Portfolio</a><br>
+    <a style="color:#DEC3BE; font-weight:bold;" href="https://www.linkedin.com/in/jroybaldev/" target="_blank">LinkedIn</a><br>
+    <a style="color:#DEC3BE; font-weight:bold;" href="https://github.com/ExcuseMeImJack" target="_blank">GitHub</a>
+  </p>
+
+</main>
