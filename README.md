@@ -51,6 +51,9 @@
   <div style="border-top:2px solid #E1DEE3;"></div><hr/>
 
   <h3 align="left">Technical Skills</h3>
+  <div>
+    <img height="250" src="https://github.com/user-attachments/assets/ed012a13-7cf8-4c19-aca4-781b34f70289" />
+  </div>
   <table>
     <tr>
       <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Frontend:</td>
@@ -73,6 +76,7 @@
       <td><img height="40" src="https://skillicons.dev/icons?i=lua,ps,pr,unity,unreal,vercel"/></td>
     </tr>
   </table>
+
 <hr/>
   <h3 align="left">Links</h3>
   <p align="left" style="display:flex; gap:1rem; padding-bottom:1rem;">
